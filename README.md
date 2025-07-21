@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ```
 ## 📥 Download Dataset
 You can download a pre-collected face mask dataset (e.g., Kaggle Face Mask Dataset) using the following link:
-Download Dataset from Kaggle
+[Download Dataset from Kaggle](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset)
 
 After downloading, extract it and place it in the data/ folder as:
 ```
